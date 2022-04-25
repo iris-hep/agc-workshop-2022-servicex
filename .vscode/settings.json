@@ -1,8 +1,10 @@
 {
-    "jupyter.jupyterServerType": "remote",
+    "jupyter.jupyterServerType": "local",
     "cSpell.words": [
+        "LINQ",
         "mplhep",
         "ntuple",
+        "ntuples",
         "pyplot",
         "ttbar"
     ]
