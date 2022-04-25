@@ -1,3 +1,6 @@
 jupyter
 func-adl-servicex
 mplhep
+hist
+vector
+func-adl-servicex-xaodr21
